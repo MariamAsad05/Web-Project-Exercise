@@ -1,0 +1,159 @@
+#pic1{
+    border: 10px solid #9F2042;
+
+    }
+    #info1{
+        text-align: left;
+        border: 10px solid #9F2042;
+        margin-top: 70px;
+        padding: 50px;
+        width: 70%;
+        display: flex;
+        margin-left: 30px;
+
+    }
+    .right{
+         
+        text-align: left;
+        width: 70%; 
+        display: flex;
+        margin-left: 65px;
+        margin-top: 50px;
+
+
+    }
+    #pic2{
+        float: right;
+        border: 10px solid #9F2042;
+        margin-left: 75px;
+
+    }
+    #info2 {
+    text-align: left;
+    margin-top: 60px;
+    border: 10px solid #9F2042;
+    padding: 55px;
+    display: flex;
+       
+}
+     
+    .rightside{
+        position: absolute;
+        left: 30%;
+        top: 60%;
+        width: 70%;
+        display: relative;
+        margin-top: 80px;
+
+    }
+
+    .pic3{
+        border: 40px solid #9F2042;
+        border-radius: 10px;
+        padding: 70px;
+
+
+    }
+
+    #info3{
+        text-align: left;
+        margin-top: 45px;
+        border: 10px solid #9F2042;
+        padding: 50px;
+        width: 70%;
+        display: flex;
+        margin-left: 30px;
+    }
+    .bottomright{
+        width: 70%; 
+        margin-top: 490px;
+        margin-left: 65px;
+        top: 55%;
+        text-align: left;
+        position:absolute;
+        display: flex;
+    
+    }
+   
+    
+   
+    h1.border{
+        border: 10px solid;
+        text-align: center;
+        width: 350px;
+        height:20px;
+        padding: 40px;
+        margin:auto;
+        margin-top: 45px;
+        color: #9F2042;
+    }
+   
+   footer{
+   text-align: center;
+    background-color: #9F2042;
+    color: #fff0f5;  
+    padding: 10px;
+    margin-top: 900px;
+    top: 0%;
+    right: 0%;
+    height: 18px;
+    
+
+}
+
+   
+   body{
+    background-color: lavenderblush;
+    font-family: Copperplate, Papyrus, fantasy;
+   }
+
+   .pictures{
+        width: 300px;
+        height: 300px; 
+        float: left;
+        margin-right: 50px;
+        border: 10px solid #9F2042;
+
+   }
+   .header{
+    background-color: #9F2042;
+    padding: 20px;
+    margin-top: 10px;
+    top: 0;
+    right: 0;
+    width: 100%;
+    position: absolute;
+    color: #fff0f5;
+    margin: 0px;    
+   }
+
+nav{
+    text-align: right;
+    padding: 10px;
+    top: 0;
+    right: 0;
+    width: 100%;
+    position: absolute;
+
+   }
+   nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+   }
+  
+   nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+   }
+   nav ul li{
+    display: inline-block;
+    margin-left:  30px;
+   }
+   nav a{
+    color: #fff0f5;
+    text-decoration: none;
+    font-size: 20px;
+    
+   }
